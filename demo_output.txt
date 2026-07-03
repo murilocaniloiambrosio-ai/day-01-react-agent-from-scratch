@@ -1,0 +1,48 @@
+
+=== New question: 'How much is 12 * 7 + 1?' ===
+
+-- Step 1 --
+Thought: This looks like a math question, I should use the calculator.
+Action: calculator
+Action Input: 12 * 7 + 1
+Observation: 85
+
+-- Step 2 --
+Thought: I now have enough information.
+Final Answer: 85
+
+>>> Agent finished after 2 step(s).
+
+FINAL ANSWER: 85
+
+=== New question: "What's the weather in Guarulhos?" ===
+
+-- Step 1 --
+Thought: This is a weather question, I should check the weather tool.
+Action: weather
+Action Input: Guarulhos
+Observation: 24C, partly cloudy
+
+-- Step 2 --
+Thought: I now have enough information.
+Final Answer: 24C, partly cloudy
+
+>>> Agent finished after 2 step(s).
+
+FINAL ANSWER: 24C, partly cloudy
+
+=== New question: 'What is ReAct?' ===
+
+-- Step 1 --
+Thought: I should search my knowledge base for this.
+Action: search
+Action Input: What is ReAct?
+Observation: ReAct combines Reasoning and Acting in a single loop.
+
+-- Step 2 --
+Thought: I now have enough information.
+Final Answer: ReAct combines Reasoning and Acting in a single loop.
+
+>>> Agent finished after 2 step(s).
+
+FINAL ANSWER: ReAct combines Reasoning and Acting in a single loop.
